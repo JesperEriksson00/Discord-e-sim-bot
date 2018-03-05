@@ -5,7 +5,7 @@
   "repository": "https://github.com/GoogleCloudPlatform/nodejs-getting-started",
   "private": true,
   "scripts": {
-    "start": "node eSweden1_2_1.js",
+    "start": "node app.js",
   },
   "author": "Jesper Eriksson",
   
