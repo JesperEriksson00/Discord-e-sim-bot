@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-getting-started",
+  "version": "1.0.0",
+  "description": "End to end sample for running Node.js applications on Google Cloud Platform",
+  "repository": "https://github.com/GoogleCloudPlatform/nodejs-getting-started",
+  "private": true,
+  "scripts": {
+    "start": "node eSweden1_2_1.js",
+  },
+  "author": "Jesper Eriksson",
+  
+  "license": "None",
+  "semistandard": {
+    "globals": [
+      "after",
+      "afterEach",
+      "before",
+      "beforeEach",
+      "describe",
+      "it"
+    ]
+  },
+  
+  
+  "engines": {
+    "node": ">=7.9.0"
+  }
+}
